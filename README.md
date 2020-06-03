@@ -1,1 +1,1 @@
-# Lensing_WG
+# Lensing_GW
